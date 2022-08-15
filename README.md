@@ -39,7 +39,7 @@ We accept Pull Requests!
   * [Test for Java/Kotlin backend developer *(eng)* *(Java/Kotlin, Spring Boot, Maven/Gradle)*](https://github.com/KazanExpress/wms-backend-test-task)
   * [KazanExpress test for Python developer *(eng)* *(Python, Django)*](https://github.com/KazanExpress/django-test-task)
   
- * [Xored](http://ru.xored.com/)
+* [Xored](http://ru.xored.com/)
   * [Screen sharing + chat *(ENG)* *(any)*](https://docs.xored.com/display/XL/Test+task+Screen+sharing+with+chat)
   * [Xored home work test task *(ENG)* *(Eclipse)*](https://docs.xored.com/display/XL/Xored+home+work+test+task)
   * [Xored home work test task 2 *(ENG)* *(Eclipse)*](https://docs.xored.com/display/XL/Xored+home+work+test+task+2)
