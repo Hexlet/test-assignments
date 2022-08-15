@@ -35,7 +35,7 @@ We accept Pull Requests!
   * [Customer Import Platform MQA - MQA test assignment *(ENG)* *(any)*](https://github.com/matic-insurance/assignment-test-import)
   * [Customer Import Platform - AQA test assignment *(ENG)* *(Ruby)*](https://github.com/matic-insurance/assignment-test-import)
   
- * [Marketplace Technologies (KazanExpress)](https://github.com/KazanExpress)
+* [Marketplace Technologies (KazanExpress)](https://github.com/KazanExpress)
   * [Test for Java/Kotlin backend developer *(eng)* *(Java/Kotlin, Spring Boot, Maven/Gradle)*](https://github.com/KazanExpress/wms-backend-test-task)
   * [KazanExpress test for Python developer *(eng)* *(Python, Django)*](https://github.com/KazanExpress/django-test-task)
   
