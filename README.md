@@ -1,15 +1,5 @@
 # Test assignments
 
-[![Hexlet Ltd. logo](https://raw.githubusercontent.com/Hexlet/assets/master/images/hexlet_logo128.png)](https://hexlet.io/?utm_source=github&utm_medium=link&utm_campaign=ru-test-assignments)
-
-This repository is created and maintained by the team and the community of Hexlet, an educational project. [Read more about Hexlet](https://hexlet.io/?utm_source=github&utm_medium=link&utm_campaign=ru-test-assignments).
-
-Check out the most active participants in the project at [hexlet-friends](https://friends.hexlet.io/).
-
-----
-
-Attach the completed test assignments as a portfolio to your resume at [Hexlet CV](https://cv.hexlet.io/).
-
 ## How to help?
 
 We accept Pull Requests!
@@ -44,3 +34,13 @@ We accept Pull Requests!
   * [Xored home work test task *(ENG)* *(Eclipse)*](https://docs.xored.com/display/XL/Xored+home+work+test+task)
   * [Xored home work test task 2 *(ENG)* *(Eclipse)*](https://docs.xored.com/display/XL/Xored+home+work+test+task+2)
   * [Remote FS Explorer - Eclipse plugin *(ENG)* *(Eclipse)*](https://docs.xored.com/pages/viewpage.action?pageId=22742624)
+
+Attach the completed test assignments as a portfolio to your resume at [Hexlet CV](https://cv.hexlet.io/).
+
+----
+
+[![Hexlet Ltd. logo](https://raw.githubusercontent.com/Hexlet/assets/master/images/hexlet_logo128.png)](https://hexlet.io/?utm_source=github&utm_medium=link&utm_campaign=ru-test-assignments)
+
+This repository is created and maintained by the team and the community of Hexlet, an educational project. [Read more about Hexlet](https://hexlet.io/?utm_source=github&utm_medium=link&utm_campaign=ru-test-assignments).
+
+Check out the most active participants in the project at [hexlet-friends](https://friends.hexlet.io/).
